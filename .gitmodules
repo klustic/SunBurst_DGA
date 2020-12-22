@@ -1,0 +1,3 @@
+[submodule "data/research"]
+	path = data/research
+	url = https://github.com/bambenek/research
